@@ -1,0 +1,24 @@
+{
+  "name": "quick-start",
+  "version": "1.0.0",
+  "description": "My personal quick start for websites. It includes",
+  "main": "gulpfile.js",
+  "dependencies": {},
+  "devDependencies": {
+    "bulma": "^0.7.2",
+    "gulp": "^3.9.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mccombs/quick-start.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mccombs/quick-start/issues"
+  },
+  "homepage": "https://github.com/mccombs/quick-start#readme"
+}
